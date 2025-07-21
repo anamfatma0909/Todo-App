@@ -1,0 +1,12 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Run the following command to clone the repository ``` git clone https://github.com/alokyadav1/mern-todo-app.git ``` Go to ```frontend``` and ```backend``` directory to install packages ``` cd frontend npm install ``` ``` cd backend npm install ``` # Configuration Create ```.env``` file inside ```backend``` directory and copy the following code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
